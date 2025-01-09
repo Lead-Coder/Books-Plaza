@@ -1,0 +1,23 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "A full-stack book store application",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm run dev",
+    "install-all": "npm install && cd frontend && npm install && cd ../backend && npm install"
+  },
+  "keywords": [
+    "book-store",
+    "fullstack",
+    "react",
+    "node"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^6.5.1"
+  }
+}
