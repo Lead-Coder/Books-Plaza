@@ -91,19 +91,19 @@ const teamMembers: TeamMember[] = [
   {
     name: "Madhukar Pai",
     role: "Owner & Head Buyer",
-    bio: "Alice has been a book lover since childhood and opened the store to share her passion with the community.",
+    bio: "I been a book lover since childhood and have opened the store to share the passion with the community.",
     imageUrl: "/placeholder.svg?height=150&width=150"
   },
   {
     name: "Shashwat Prabhu",
     role: "Events Coordinator",
-    bio: "Bob organizes our author events and book clubs, bringing exciting literary experiences to our customers.",
+    bio: "Shashwat organizes our author events and book clubs, bringing exciting literary experiences to our customers.",
     imageUrl: "/placeholder.svg?height=150&width=150"
   },
   {
     name: "Sameer Singh",
     role: "Children's Literature Specialist",
-    bio: "Carol curates our children's section and runs our weekly storytime sessions for young readers.",
+    bio: "Sameer curates our children's section and runs our weekly storytime sessions for young readers.",
     imageUrl: "/placeholder.svg?height=150&width=150"
   }
 ]
