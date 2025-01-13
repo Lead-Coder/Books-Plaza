@@ -25,6 +25,7 @@ const BookDetails = () => {
 
   const handleAddToCart = () => {
     addToCart(book);
+    alert(`${book.title} is added to cart`)
   };
 
   return (
